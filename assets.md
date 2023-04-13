@@ -9,9 +9,3 @@
 ![velocimeter-cm-aqua](https://user-images.githubusercontent.com/4340952/217877622-17e92d8c-96b2-498b-8580-6c9d49db1456.png)
 ![velocimeter-cm-black](https://user-images.githubusercontent.com/4340952/217877623-79c11d0f-1c1c-4644-8ff4-9a0e442716ce.png)
 ![velocimeter-cm-white](https://user-images.githubusercontent.com/4340952/217877624-fcacb3ca-51dd-440b-a54b-1adcb0500a2a.png)
-[velocimeter-marketing-pack.zip](https://github.com/strikeanerve/velocimeter-assets/files/10699389/velocimeter-marketing-pack.zip)
-  
-[monument-extended.zip](https://github.com/strikeanerve/velocimeter-assets/files/11202249/monument-extended.zip)
-
-
-[velocimeter-marketing-pack.zip](https://github.com/strikeanerve/velocimeter-assets/files/11223656/velocimeter-marketing-pack.zip)
